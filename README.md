@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RupakBoral
-- 👀 I’m interested in solving different coding problems
-- 🌱 DSA in CPP
+- 👀 I’m interested in solving problems
+- 🖥️ Software Engineer
 - 📫 How to reach me - https://www.linkedin.com/in/rupak-boral-169435249/
-- 🖥️ Engaged with Web Development
 - Portfolio - [rupakboral-portfolio](https://rupakboral-portfolio.web.app/)
 
 <!---
